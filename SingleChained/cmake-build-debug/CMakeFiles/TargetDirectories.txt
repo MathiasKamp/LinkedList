@@ -1,0 +1,3 @@
+D:/projects/CProjects/assignments/LinkedList/SingleChained/cmake-build-debug/CMakeFiles/SingleChained.dir
+D:/projects/CProjects/assignments/LinkedList/SingleChained/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/CProjects/assignments/LinkedList/SingleChained/cmake-build-debug/CMakeFiles/rebuild_cache.dir

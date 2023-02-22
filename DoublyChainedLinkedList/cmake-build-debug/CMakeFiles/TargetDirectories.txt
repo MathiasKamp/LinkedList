@@ -1,0 +1,3 @@
+D:/projects/CProjects/assignments/LinkedList/DoublyChainedLinkedList/cmake-build-debug/CMakeFiles/DoublyChainedLinkedList.dir
+D:/projects/CProjects/assignments/LinkedList/DoublyChainedLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/CProjects/assignments/LinkedList/DoublyChainedLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
