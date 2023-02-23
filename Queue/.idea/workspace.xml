@@ -21,10 +21,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31742478-ae71-4029-8b0c-55f6a49daeee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../DoublyChainedLinkedList/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../DoublyChainedLinkedList/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/cmake-build-debug/CMakeFiles/Stack.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/cmake-build-debug/CMakeFiles/Stack.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/cmake-build-debug/Stack.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/cmake-build-debug/Stack.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Stack/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Stack/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/main.c" afterDir="false" />
     </list>
@@ -86,27 +87,11 @@
       <option name="presentableId" value="Default" />
       <updated>1677068264797</updated>
       <workItem from="1677068266688" duration="55000" />
-      <workItem from="1677143418441" duration="4412000" />
+      <workItem from="1677143418441" duration="5353000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.c</url>
-          <line>63</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.c</url>
-          <line>130</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
